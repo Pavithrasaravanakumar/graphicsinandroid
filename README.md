@@ -79,13 +79,16 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 #### Coding Part
-![alt text](Output_Images/Coding_Part.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/eaab7923-4330-4216-9a49-632f87d58fa0" />
+
 
 #### Design Part
-![alt text](Output_Images/Design_Part.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bc657b9b-0f59-4e9a-a139-d58c73cf4ad2" />
+
 
 #### App
-<img src="Output_Images/App.png" height=400>
+<img width="590" height="1280" alt="image" src="https://github.com/user-attachments/assets/e9e0ea02-710c-4995-b6b3-a7fd99fee879" />
+
 
 
 ## RESULT
